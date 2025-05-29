@@ -24,3 +24,6 @@ Here are just a few of the awesome things I built:
 
 🕒 Digital Clock – A real-time digital clock that updates every second. This taught me how to work with Date objects and intervals in JavaScript.
 
+GitHub Repository Link: https://github.com/Gmaan15/thee-final-project-
+
+Website Link:https://gmaan15.github.io/tha-final-project/
